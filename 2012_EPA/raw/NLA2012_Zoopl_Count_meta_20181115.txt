@@ -1,0 +1,40 @@
+VARIABLE	DESCRIPTION	SAMPLE_TYPE	UNITS	RANGE_LOW	RANGE_HIGH	LEGAL_VALUES
+ABUNDANCE	Number of organisms counted from sample	ZOCN				
+ABUNDANCE	Number of organisms counted from sample	ZOCR				
+ABUNDANCE	Number of organisms counted from sample	ZOFN				
+ABUNDANCE	Number of organisms counted from sample	ZOFR				
+BIOMASS	Taxa biomass per sample (µg dry weight/L)	ZOCN				
+BIOMASS	Taxa biomass per sample (µg dry weight/L)	ZOCR				
+BIOMASS	Taxa biomass per sample (µg dry weight/L)	ZOFN				
+BIOMASS	Taxa biomass per sample (µg dry weight/L)	ZOFR				
+BIOMASS_FACTOR	Average biomass per taxa (µg dry weight)	ZOFN				
+BIOMASS_FACTOR	Average biomass per taxa (µg dry weight)	ZOFR				
+CONCENTRATED_VOLUME	Laboratory starting volume (mL)	ZOCN				
+CONCENTRATED_VOLUME	Laboratory starting volume (mL)	ZOCR				
+CONCENTRATED_VOLUME	Laboratory starting volume (mL)	ZOFN				
+CONCENTRATED_VOLUME	Laboratory starting volume (mL)	ZOFR				
+DENSITY	Number of organisms/L	ZOCN				
+DENSITY	Number of organisms/L	ZOCR				
+DENSITY	Number of organisms/L	ZOFN				
+DENSITY	Number of organisms/L	ZOFR				
+IS_DISTINCT	Distinct taxa classification per sample	ZOCN				
+IS_DISTINCT	Distinct taxa classification per sample	ZOCR				
+IS_DISTINCT	Distinct taxa classification per sample	ZOFN				
+IS_DISTINCT	Distinct taxa classification per sample	ZOFR				
+PARAMETER	Variable name					
+PUBLICATION_DATE	Date the dataset was published to the NARS site					
+RESULT	Value of associated parameter					
+SAMPLE_ID	ID for sample collected	ZOCN				
+SAMPLE_ID	ID for sample collected	ZOCR				
+SAMPLE_ID	ID for sample collected	ZOFN				
+SAMPLE_ID	ID for sample collected	ZOFR				
+SAMPLE_TYPE	Code identifying sample type					
+TOW_VOLUME_FILTERED	Amount of water sampled in the field in mL	ZOCN				
+TOW_VOLUME_FILTERED	Amount of water sampled in the field in mL	ZOCR				
+TOW_VOLUME_FILTERED	Amount of water sampled in the field in mL	ZOFN				
+TOW_VOLUME_FILTERED	Amount of water sampled in the field in mL	ZOFR				
+UID	Unique identifier for the site/visit					
+VOLUME_COUNTED	Actual volume counted (mL)	ZOCN				
+VOLUME_COUNTED	Actual volume counted (mL)	ZOCR				
+VOLUME_COUNTED	Actual volume counted (mL)	ZOFN				
+VOLUME_COUNTED	Actual volume counted (mL)	ZOFR				
